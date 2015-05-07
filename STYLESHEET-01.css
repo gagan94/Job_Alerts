@@ -1,0 +1,57 @@
+body
+{
+	background-color:#e6e6e6;
+	font-family:calibri;
+}
+
+h1
+{
+	font-size:150px;
+	margin-left:22%;
+	margin-top:8%;
+	color:#a4a4a4;
+	margin-bottom:2%;
+}
+
+input
+{
+	font-family:calibri;
+	margin-left:3%;
+	margin-top:0%;
+	position:relative;
+	height:40px;
+	width:25%;
+	font-size:20px;
+	border-radius:5px;
+	border: 1px solid #a4a4a4;
+}
+
+#button
+{
+	width:10%;
+	background-color:#2e9afe;
+	color:white;
+}
+
+#first
+{
+	margin-left:15%;
+}
+
+.p
+{
+	margin-left:70%;
+	color:black;
+}
+
+a
+{
+	color:blue;
+}
+
+.error
+{
+	color:red;
+	margin-left:900px;
+	margin-bottom:-10px;
+}
